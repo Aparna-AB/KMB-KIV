@@ -1,0 +1,106 @@
+.toadress{
+    padding-top: 30px;
+}
+.carving  .modal-buttons{
+    .button-close{
+background: #FFFFFF;
+border: 1px solid #3D5CB8;
+border-radius: 40px !important;
+color: #3D5CB8;
+margin: 0 5px;
+padding: 10px 50px;
+&:hover{
+    background: #E2EAFF;
+}
+    }
+    .button-submit{
+        background: #3D5CB8;
+        border-radius: 40px;
+        margin: 0 5px;
+        padding: 10px 50px;
+        &:hover{
+            background: #1F3B8C;
+        }
+    }
+}
+.ca .modal-buttons{
+    .button-close{
+background: #FFFFFF;
+border: 1px solid #3D5CB8;
+border-radius: 40px !important;
+color: #3D5CB8;
+margin: 0 5px;
+padding: 10px 50px;
+&:hover{
+    background: #E2EAFF;
+}
+    }
+    .button-submit{
+        background: #3D5CB8;
+        border-radius: 40px;
+        margin: 0 5px;
+        padding: 10px 50px;
+        &:hover{
+            background: #1F3B8C;
+        }
+    }
+}
+
+.carving .modal-lg, .carving .modal-xl {
+    --bs-modal-width: 90%;
+    padding: 0px 60px;
+}
+.carving .modal-content{
+    height: 100%;
+    min-height: 91vh;
+}
+.carving .tab-content{
+    padding: 10px 15px;
+}
+.carving .modal-body{
+    padding: 0px 30px; 
+}
+.carving .modal-header{
+    padding: 10px
+}
+.carving .modal-header .btn-close{
+    position: relative;
+    top: 20px;
+    right: 20px;
+    color: #7F8087 !important;
+    font-size: 13px;
+    box-shadow: none;
+    z-index: 999;
+}
+
+.btn-container{
+    margin-top: 100px;
+}
+.carving .modal-buttons{
+    align-items: center;
+    place-content: center;
+    display: flex;
+    position: absolute;
+    bottom: 30px;
+}
+.ca .modal-buttons{
+    align-items: center;
+    place-content: center;
+    display: flex;
+    position: absolute;
+    bottom: 30px;
+}
+
+.textrow{
+    border: 1px solid #EAE9E9;
+    border-radius: 15px;
+    padding: 20px;
+}
+.namerow{
+    text-align: end;
+}
+.form-name{
+    color: #7F8087;
+    font-size: 20px;
+    margin-bottom: 0;
+}

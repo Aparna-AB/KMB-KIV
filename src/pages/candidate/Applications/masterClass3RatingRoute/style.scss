@@ -1,0 +1,199 @@
+.headrow {
+    border-bottom: 1px solid #CBC9C9;
+    padding: 10px 13px;
+}
+.card-content-wrapper{
+    .note{
+
+    }
+}
+.master-class-form .modal-header{
+    border-bottom: 1px solid #ebebeb;
+}
+.master-class-form .nav-link.active {
+    border: none;
+    color: #2D2F3A;
+    border-bottom: 1px solid #3D5CB8 !important;
+    font-weight: 600;
+}
+.master-class-form .nav-link{
+    color: #7F8087;
+}
+.master-class-form .nav-link:hover {
+    // border: none;
+}
+.master-class-form .modal-lg, .master-class-form .modal-xl {
+    --bs-modal-width: 100%;
+    padding: 0px 60px;
+}
+.master-class-form .modal-content{
+    height: 100%;
+    min-height: 91vh;
+}
+.master-class-form .tab-content{
+    padding: 10px 20px;
+}
+.master-class-form .modal-body{
+    padding: 0px 15px; 
+}
+.master-class-form .modal-header{
+    padding: 26px 35px 10px;
+}
+.master-class-form .modal-header .btn-close{
+    position: relative;
+    right: 0px;
+    top: -3px;
+    color: #7F8087 !important;
+    font-size: 13px;
+    box-shadow: none;
+    z-index: 999;
+}
+.master-class-form .tab-content h5{
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #7F8087;
+}
+.master-class-form.tab-content p{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #2D2F3A;
+}
+.master-class-form .modal-buttons{
+    align-items: center;
+    place-content: center;
+    display: flex;
+    position: absolute;
+    bottom: 30px;
+}
+.master-class-form .modal-buttons{
+    .button-close{
+background: #FFFFFF;
+border: 1px solid #3D5CB8;
+border-radius: 40px !important;
+color: #3D5CB8;
+margin: 0 5px;
+padding: 10px 50px;
+&:hover{
+    background: #E2EAFF;
+}
+    }
+    .button-submit{
+        background: #3D5CB8;
+        border-radius: 40px;
+        margin: 0 5px;
+        padding: 10px 50px;
+        &:hover{
+            background: #1F3B8C;
+        }
+    }
+}
+h4{
+    padding-bottom: 5px;
+}
+.master-class-form hr{
+    width: 87%;
+    border: none;
+    border-top: 1px solid #CBC9C9;
+}
+.mgt-32{
+    margin-top: 32px;
+}
+.master-class-form{
+    .nav-tabs{
+display: none;
+    }
+.application-form-title{
+    
+}
+.note{
+    background: #F7F7F7A1;
+    margin: 20px 0;
+    p{
+        font-size: 14px;
+    margin-bottom: 0;
+    padding: 15px;
+    }
+}
+.main-head{
+    margin-bottom: 0 !important;
+    margin-top: 20px;
+}
+.sub-head{
+    margin-bottom: 20px;
+    color: #7F8087;
+}
+.btn-container{
+    margin-top: 100px;
+}
+.note-text{
+    font-size: 14px;
+    line-height: 32px;
+}
+.signature-wrapper{
+    margin-top: 40px;
+    .addrestxt {
+        color: #2D2F3A;
+        font-size: 16px;
+        font-weight: 700;
+        width: 400px;
+    }
+    .datetxt{
+        color: #2D2F3A;
+        font-size: 16px;
+        font-weight: 700;
+        width: 155px;
+        margin-bottom: 15px;
+    }
+}
+.note-para{
+    font-size: 14px;
+    margin: 10px 0 40px;
+}
+.examinor-remarks{
+    height: 100% !important;
+    &:hover{
+        
+            border: 1px solid #5A5C68 !important;
+        
+    }
+    &:focus{
+        
+            border: 1.5px solid #3D5CB8 !important;
+            box-shadow: none !important;
+            outline: none;
+            border-color: #3D5CB8 !important;
+    
+    }
+}
+.aproval-form-name{
+    color: #7F8087;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.profile-img{
+    img{
+        width: auto;
+        height: 300px;
+        object-fit: contain;
+    }
+}
+.mt-40{
+    margin-top: 4rem;
+}
+}
+.form-name{
+    color: #7F8087;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.file-upload-tag{
+    font-size: 14px;
+    margin-bottom: 0;
+}
+.ml-20{
+    margin-left: 15px;
+}

@@ -1,0 +1,92 @@
+.text-input {
+  margin-top: 5px;
+  background-color: var(--primary-color);
+}
+
+.text-box {
+  margin-top: 8px;
+}
+
+.error-message {
+  color: var(--red);
+  font-size: 12px;
+}
+
+.pagination-container {
+  margin-top: 10px;
+  float: right;
+}
+
+.breadcrumbs {
+  display: flex;
+  justify-content: end;
+  margin-top: 20px;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: "center";
+}
+
+.kmb-table th {
+  color: #2D2F3A !important;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  padding-top: 15px !important;
+  padding-bottom: 15px !important;
+}
+
+.kmb-table td {
+  color: #5A5C68 !important;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  padding-top: 15px !important;
+  padding-bottom: 15px !important;
+}
+.kmb-table tr, .kmb-table td, .kmb-table th {
+  border: none;
+}
+
+.confirmation-modal .modal-header {
+  border: none;
+  padding: 25px 15px 0;
+}
+.confirmation-modal .modal-footer {
+  border: none;
+  padding-bottom: 40px;
+}
+.confirmation-modal .modal-content {
+  text-align: center;
+}
+.confirmation-modal .modal-body {
+  padding-top: 25px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  color: #2D2F3A;
+}
+.confirmation-modal .modal-dialog {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%) !important;
+  max-width: 415px;
+  width: 415px;
+}
+
+.simple-captcha canvas {
+  margin-left: -20px;
+}
+
+.simple-captcha {
+  width: 100%;
+}/*# sourceMappingURL=style.css.map */

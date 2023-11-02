@@ -1,0 +1,12 @@
+.customer-dashboard-button-container {
+  border: 1px solid grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  border-radius: 7px;
+  margin-top: 50px;
+}
+.customer-dashboard-container {
+  margin-top: 40px;
+}

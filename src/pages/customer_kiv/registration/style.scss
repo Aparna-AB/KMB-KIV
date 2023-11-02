@@ -1,0 +1,259 @@
+.address-name {
+  text-align: center;
+}
+.address-details {
+  margin-top: 65px;
+}
+.tab-style {
+}
+.main-button {
+  display: flex;
+  justify-content: end;
+}
+
+.site-house {
+  margin-top: 10px;
+}
+.address-button {
+  display: flex;
+  justify-content: end;
+}
+.additional-container {
+  margin-bottom: 40px;
+}
+.additional-button {
+  display: flex;
+  justify-content: end;
+}
+.button-container {
+  margin-top: 15px;
+  cursor: pointer;
+}
+.float-right{
+  margin-top: 48px;
+ 
+justify-content: center;
+width: 174px;
+height: 48px;
+padding: 11px 22px 11px 22px;
+border-radius: 40px;
+gap: 10px;
+background: rgba(61, 92, 184, 1);
+color: rgba(255, 255, 255, 1);
+font-style: Manrope;
+}
+
+.btn-outline{
+  
+justify-content: center;
+text-align: center;
+// margin-top: 25px;
+width: 174px;
+height: 48px;
+padding: 11px 22px 11px 22px;
+border-radius: 40px;
+gap: 10px;
+color: rgba(61, 92, 184, 1);
+border: 1px solid rgba(61, 92, 184, 1)
+
+
+}
+
+.address-container {
+  margin-bottom: 40px;
+}
+
+
+ 
+.btn-col{
+   justify-content:end;
+  margin-top: 50px;
+
+}
+.btn-col2{
+  justify-content:center;
+  width: 100% !important;
+ 
+}
+
+h3{
+  text-align: left;
+  margin-bottom: 20px;
+  font-size: 32px;
+  font-style: Manrope;
+  font-weight: 600;
+  margin-left: 17px;
+
+}
+.logo-wraper {
+  text-align: center;
+  // img{
+  // width: 70%;
+  // }
+}
+.log-bg-img
+{
+  background: rgb(251,243,226);
+  background: linear-gradient(275deg, rgba(240,255,254,1) 0%, rgba(251,243,226,1) 100%);
+  background-position: center;
+  border-radius: 14px;
+  padding: 25px;
+}
+.log-welcome-msg{
+  text-align: center;
+  h1{
+    position: inherit;
+    color: #3D5CB8 !important;
+  }
+  p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #2D2F3A
+  }
+}
+a{
+  text-decoration: none;
+}
+.btn{
+// display: flex;
+// flex-direction: row;
+// justify-content: center;
+// align-items: flex-start;
+// padding: 11px 22px;
+// gap: 10px;
+// width: 120px;
+// height: 48px;
+// background: #3D5CB8;
+// border-radius: 40px;
+}
+.rectagle{
+  width: 98%;
+  // max-width: 600px;
+  margin: 0 auto;
+  height: 110px;
+  background: #E2EAFF;
+  border-radius: 6px;
+  margin-left: 15px;
+}
+.maindetails{
+  margin-top: 40px;
+  margin-left: 20px;
+}
+.btn-row{
+  padding-top: 50px;
+  justify-content: center;
+}
+.addresrow{
+ padding-left: 10px;
+}
+.main-div{
+  padding: 20px 33px;
+}
+.sub{
+  // color: #7F8087;
+  size: 16px;
+  text-align: left;
+  padding-top: 0;
+  margin-left: 17px;
+  font-style: Manrope;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 16px;
+  color: rgba(127, 128, 135, 1);
+}
+.sub a{
+  color: #3D5CB8;
+  &:hover{
+    color: #1F3B8C;
+  }
+}
+
+.recaptcha{
+  display: flex;
+  place-content: flex-start;
+  margin-top: 20px;
+}
+
+
+@media (min-width: 768px) {
+  /* Adjust the breakpoint value (768px) as needed */
+  .rectangle {
+    position: static;
+    width: auto;
+    height: auto;
+    margin: 0;
+    }
+}
+.login-log-bg-img{
+  background-image: url(../../../../public/assets/images/Image.png), linear-gradient(76.65deg, #FFF9EC 11%, #EDFBFE 89.26%), ;
+  background-repeat: no-repeat !important;
+  background-size: cover;
+  border-radius: 13px;
+  position: fixed;
+      height: 93.5%;
+      left: 19px;
+      // top: 19px;
+      // margin: 20px;
+}
+
+.LOGO-log-img{
+  background-image: url(../../../../public/assets/images/LOGO-KMB_KIV.png), ;
+  background-repeat: no-repeat !important;
+display: flex;
+  // gap: 8.893128395080566px;
+  color: rgba(2, 43, 237, 1);
+left: 19px;
+top: 19px;
+// margin-top: 8px;
+  width: 549px;
+height: 61px;
+}
+
+.details-form{
+ border-radius: 4px;
+  height: 48px;
+  top: 21px;
+  border-color: 1px solid rgba(203, 201, 201, 1);
+  font-size: 16px !important;
+ 
+  // box-shadow: none;
+  outline: none;
+  // border-color: #3D5CB8 !important;
+}
+
+
+.content{
+  padding-left: 34px;
+  // width: 710px;
+height: 720px;
+// left: 728px;
+border-radius: 30px 0px 0px 30px;
+background: rgba(255, 255, 255, 1);
+font-style: Manrope;
+font-size: 14px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+@media (max-width: 767.98px) {
+   .login-log-bg-img{
+    display: none;
+  }
+  .content{
+    padding-left: 13px;
+  }
+  .rectagle{
+    margin-left: 0px;
+  }
+    .maindetails {
+     margin-left: 0;
+  }
+  .main-div {
+   padding: 0 25px;
+}
+}
+

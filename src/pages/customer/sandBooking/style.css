@@ -1,0 +1,9 @@
+.sandbooking-form form {
+  box-shadow: 0px 0px 4px 1px rgba(22, 28, 36, 0.14);
+  border-radius: 6px;
+  border: none;
+  padding: 30px;
+}
+.sandbooking-form .text-box {
+  margin-bottom: 20px;
+}/*# sourceMappingURL=style.css.map */

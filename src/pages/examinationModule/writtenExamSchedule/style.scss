@@ -1,0 +1,46 @@
+
+
+.headrow{
+
+    border-bottom: 1px solid #dbd9d9;
+    align-items: center;
+    padding: 0px 15px 10px;
+}
+
+.qstnrow{
+
+    
+
+    height: 88px;
+
+    background-color: #F7F7F7;
+
+    padding: 20px, 24px, 20px, 24px;
+
+    margin: 20px 15px;
+
+}
+
+.questn{
+
+    padding: 30px;
+
+}
+
+.dnld-btn{
+
+padding: 20px;
+
+}
+.card-container{
+    .headrow{
+        h4{
+            margin-bottom: 0;
+        }
+    }
+    .qstnrow{
+        .btn-download {
+            background-color: transparent !important;
+        }
+    }
+}

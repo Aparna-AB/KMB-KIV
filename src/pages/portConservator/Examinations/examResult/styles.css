@@ -1,0 +1,22 @@
+.container.card-container {
+  padding: 5px 10px !important;
+}
+
+.headrow {
+  margin-top: 10px;
+}
+
+.qstnrow {
+  height: 88px;
+  background-color: #F7F7F7;
+  padding: 20px, 24px, 20px, 24px;
+  margin: 20px;
+}
+
+.questn {
+  padding: 30px;
+}
+
+.dnld-btn {
+  padding: 20px;
+}/*# sourceMappingURL=styles.css.map */

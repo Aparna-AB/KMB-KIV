@@ -1,0 +1,120 @@
+.category-a  .modal-buttons{
+    .button-close{
+background: #FFFFFF;
+border: 1px solid #3D5CB8;
+border-radius: 40px !important;
+color: #3D5CB8;
+margin: 0 5px;
+padding: 10px 50px;
+&:hover{
+    background: #E2EAFF;
+}
+    }
+    .button-submit{
+        background: #3D5CB8;
+        border-radius: 40px;
+        margin: 0 5px;
+        padding: 10px 50px;
+        &:hover{
+            background: #1F3B8C;
+        }
+    }
+}
+.ca .modal-buttons{
+    .button-close{
+background: #FFFFFF;
+border: 1px solid #3D5CB8;
+border-radius: 40px !important;
+color: #3D5CB8;
+margin: 0 5px;
+padding: 10px 50px;
+&:hover{
+    background: #E2EAFF;
+}
+    }
+    .button-submit{
+        background: #3D5CB8;
+        border-radius: 40px;
+        margin: 0 5px;
+        padding: 10px 50px;
+        &:hover{
+            background: #1F3B8C;
+        }
+    }
+}
+
+.category-a .modal-lg, .category-a .modal-xl {
+    --bs-modal-width: 100%;
+    padding: 0px 60px;
+}
+.category-a .modal-content{
+    height: 100%;
+    min-height: 91vh;
+}
+.category-a .tab-content{
+    padding: 10px 15px;
+}
+.category-a .modal-body{
+    padding: 0px 30px; 
+}
+.category-a .modal-header{
+    padding: 10px
+}
+.category-a .modal-header .btn-close{
+    position: relative;
+    top: 20px;
+    right: 20px;
+    color: #7F8087 !important;
+    font-size: 13px;
+    box-shadow: none;
+    z-index: 999;
+}
+
+.btn-container{
+    margin-top: 100px;
+}
+.category-a .modal-buttons{
+    align-items: center;
+    place-content: center;
+    display: flex;
+    position: absolute;
+    bottom: 30px;
+}
+.ca .modal-buttons{
+    align-items: center;
+    place-content: center;
+    display: flex;
+    position: absolute;
+    bottom: 30px;
+}
+
+.signature{
+    text-align: end;
+}
+.form-name{
+    color: #7F8087;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.head-row{
+    text-align: center;
+}
+.sign{
+    padding-top: 40px;
+}
+.pad{
+    padding-bottom: 15px;
+}
+.test th{
+    border: 1px solid #e1dada;
+    background-color: #F7F7F7;
+    color: black;
+}
+.test td{
+    padding: 20px 5px;
+    text-align: center;
+    color: #7a7979;
+}
+.bot{
+    padding-bottom: 15px;
+}

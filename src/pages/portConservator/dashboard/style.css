@@ -1,0 +1,20 @@
+.dashboard-button-container {
+  border: 1px solid grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  border-radius: 7px;
+  margin-top: 20px;
+}
+.dashboard-container {
+  margin-top: 40px;
+}
+.master-data-container {
+  margin-top: 40px;
+}
+.master-button-container {
+  flex-direction: row;
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,74 @@
+.table-responsive {
+    border: none;
+    border-radius: unset;
+    border-top: 1px solid #CBC9C9;
+    border-bottom: 1px solid #CBC9C9;
+}
+.aproval-form-name{
+    color: #7F8087;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.signature{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 19px;
+    color: #2D2F3A;
+}
+.declaraion p{
+    font-size:14px !important;
+    line-height: 28px;
+
+}
+button {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.enclosure{
+    color: #7F8087;
+    margin-top: 50px;
+    &::before{
+        content: "i";
+        color: #ffffff;
+        background-color: #7F8087;
+        padding: 1px 9px;
+        border-radius: 50%;
+        margin-right: 4px;
+    }
+}
+.btn-download{
+    top: 5px;
+    right: 10px;
+    position: relative;
+}
+.review-card {
+    padding: 32px 24px;
+    margin-bottom: 32px;
+    margin-top: 16px;
+}
+.display_value{
+    font-weight: 600;
+    border-bottom: 1px solid #CBC9C9;
+    color: #2D2F3A;
+    margin-bottom: 25px;
+}
+.fire_fitings .table-responsive {
+    border: 1px solid #EAE9E9;
+    border-radius: 10px;
+}
+.fire_fitings table  {
+    tbody tr td:first-child, thead tr, thead tr th:first-child{
+    background-color: #F7F7F7;
+    font-weight: 700;
+    width: 25%;
+    }
+}
+.fire_fitings {
+    margin-bottom: 30px;
+}
+.kmb-table tr td {
+    vertical-align: middle;
+}
+.table-search {
+    margin-top: 8px;
+}
